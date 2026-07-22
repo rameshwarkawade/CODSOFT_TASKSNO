@@ -1,24 +1,19 @@
 # CodSoft Data Analytics Internship
 
-This repository contains my projects completed during the CodSoft Data Analytics Internship.
+This repository contains my projects completed during the CodSoft Data Analytics Internship using Python, Pandas, Matplotlib, Seaborn, and Google Colab.
 
 ---
 
 ## Task 1: Data Cleaning & Preprocessing
 
-### Objective
-To clean and preprocess the Titanic dataset using Python and Pandas.
+**Dataset:** Titanic Dataset
 
-### Steps Performed
-- Imported the dataset
-- Inspected the dataset structure
-- Identified missing values
-- Removed duplicate records
-- Filled missing values
-- Dropped unnecessary columns
-- Saved the cleaned dataset
+**Objective:**
+- Clean and preprocess raw data.
+- Handle missing values and duplicates.
+- Prepare the dataset for analysis.
 
-### Files
+**Files**
 - Task1_data_cleaning.ipynb
 - titanic.csv
 - cleaned_titanic.csv
@@ -27,29 +22,59 @@ To clean and preprocess the Titanic dataset using Python and Pandas.
 
 ## Task 2: Exploratory Data Analysis (EDA)
 
-### Objective
-To perform Exploratory Data Analysis (EDA) on the Sample Superstore dataset and identify meaningful business insights.
+**Dataset:** Sample Superstore
 
-### Steps Performed
-- Loaded and explored the dataset
-- Cleaned the data
-- Generated descriptive statistics
-- Created visualizations using Matplotlib and Seaborn
-- Analyzed sales, profit, category, region, and segment
-- Built a correlation heatmap
-- Derived business insights and recommendations
+**Objective:**
+- Perform Exploratory Data Analysis.
+- Generate business insights.
+- Create visualizations.
 
-### Files
+**Files**
 - Superstore_EDA_Analysis.ipynb
 - Sample-Superstore.csv
 
 ---
 
-## Tools Used
+## Task 3: Data Visualization Dashboard
+
+**Dataset:** Car Sales Dataset
+
+**Objective:**
+- Analyze car sales data.
+- Create meaningful visualizations.
+- Present business insights.
+
+**Visualizations**
+- Bar Chart
+- Line Chart
+- Pie Chart
+- Histogram
+- Scatter Plot
+
+**Files**
+- Car_Sales_Data_Visualization.ipynb
+- Car_Sales_Dataset_1000.xlsx
+
+---
+
+## Technologies Used
+
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Google Colab
-- GitHub
+- Git & GitHub
+
+---
+
+## Author
+
+**Rameshwar Kawade**
+
+B.Tech, IIT (ISM) Dhanbad
+
+Aspiring Data Analyst
+
+  
